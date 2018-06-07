@@ -1,0 +1,14 @@
+.navbar-default {
+    background-color: rgba(0,0,0, .2);
+    border: none;
+}
+
+.navbar-default .navbar-brand {
+    font-size: 30px;
+    color: grey;
+}
+
+.navbar-default .navbar-nav>li>a {
+    font-size: 22px;
+    color: white;
+}

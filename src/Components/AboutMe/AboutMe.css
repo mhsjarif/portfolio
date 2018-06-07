@@ -1,0 +1,21 @@
+.about-me-body {
+    display: flex;
+}
+
+.summary {
+    line-height: 28px;
+    font-size: 18px;
+    text-align: justify;
+    width: 31%;
+    margin: 3% 0 auto 15%;
+}
+
+.my-image {
+    background-image: url('https://i.imgur.com/sHrBRfy.jpg');
+    background-size: contain;
+    width: 234px;
+    height: 300px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    border-radius: 50%;
+}

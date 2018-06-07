@@ -1,0 +1,10 @@
+.work {
+    background-color:#fef4f2;
+    height: 775px;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

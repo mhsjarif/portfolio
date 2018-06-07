@@ -1,0 +1,18 @@
+.jumbotron.MyJumbotron {
+    margin-bottom: 0;
+    background-image: url('https://i.imgur.com/bsiPAYI.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.jumbotron.MyJumbotron h1 {
+    margin-top: 12%;
+    font-family: 'Poiret One', cursive;
+}
+
+.jumbotron.MyJumbotron img {
+    width: 2%;
+    position: absolute;
+    bottom: 3%;
+}

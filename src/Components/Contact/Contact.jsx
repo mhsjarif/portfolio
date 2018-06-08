@@ -3,7 +3,8 @@ import './Contact.css';
 
 const Contact = (props) => (
     <div className="contact" id="contact">
-        <div className="sub-header">Contact</div>
+        <div className="sub-header contact-headerß">Contact</div>
+        <div className="hi">Feel free to say hi!</div>
         <div className="contact-item-container">
             <a href="mailto:tarasjarif@gmail.com">
                 <div className="contact-item">

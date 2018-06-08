@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mhsjarif.github.io/portfolio",
+  "homepage": "https://www.tarasjarif.com",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "js-yaml": "^3.12.0",

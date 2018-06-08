@@ -8,8 +8,8 @@ const Project = (props) => (
             <div>{props.title}</div>
             <div>| {props.tech.map(tech => tech + ' | ')}</div>
             <div>{props.description}</div>
-            <div className="project-button"><a href={props.github}>GitHub</a></div>
-            <div className="project-button"><a href={props.deployed}>View Site</a></div>
+            <div className="project-button"><a href={props.github} target="_blank">GitHub</a></div>
+            <div className="project-button"><a href={props.deployed} target="_blank">View Site</a></div>
         </div>
     </div>
 );

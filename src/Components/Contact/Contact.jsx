@@ -11,13 +11,13 @@ const Contact = (props) => (
                     &nbsp;&nbsp;tarasjarif@gmail.com
                 </div>
             </a>
-            <a href="https://www.linkedin.com/in/mutiarasjarif/">
+            <a href="https://www.linkedin.com/in/mutiarasjarif/" target="_blank">
                 <div className="contact-item">
                     <img src="https://i.imgur.com/VQw4WWk.png" alt="linkedin" />
                     &nbsp;&nbsp;linkedin.com/in/mutiarasjarif
                 </div>
             </a>
-            <a href="https://github.com/mhsjarif">
+            <a href="https://github.com/mhsjarif" target="_blank">
                 <div className="contact-item">
                     <img src="https://i.imgur.com/PPqak8L.png" alt="github" />
                     &nbsp;&nbsp;github.com/mhsjarif
